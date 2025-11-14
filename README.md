@@ -1,32 +1,41 @@
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A9A9A9&width=435&lines=Welcome+To+My+Profile+%3A)" alt="Typing SVG" />
+</a>
+
+<br><br>
+
 <div align="center">
 
+<table>
+<tr>
+<td>
+  <img src="/images/welcome.png" height="350">
+</td>
 
-<img src="https://via.placeholder.com/900x180/000000/ffffff?text=+" width="100%" />
+<td align="center">
 
-<h2>viciouscal</h2>
+  <samp>
+    <br> languages:
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">javascript</a>,
+    <a href="https://www.typescriptlang.org/">typescript</a>
+    <br><br>
 
-<i>"No noise. No face. Only presence."</i>
+    discord:
+    <a href="https://discord.com/users/883820228360929320">viciouscal</a>
+    <br><br>
 
-<br><br>
+    <img width="100px" src="https://komarev.com/ghpvc/?username=viciouscal&style=flat-square&color=90acd0" />
 
+    <br><br>
 
-<img src="https://via.placeholder.com/400x1/333333/333333" width="60%" />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=viciouscal&show_icons=true&locale=en&theme=dracula&border_radius=15&hide_border=true&title_color=90acd0"
+      width="340"
+    />
+  </samp>
 
-<br><br>
-
-### tools  
-`javascript` · `typescript`
-
-### contact  
-discord: **viciouscal**
-
-<br>
-
-
-<img src="https://via.placeholder.com/400x1/333333/333333" width="60%" />
-
-<br><br>
-
-<i>"Observation is constant."</i>
+</td>
+</tr>
+</table>
 
 </div>
