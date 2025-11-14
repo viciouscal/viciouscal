@@ -1,4 +1,3 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A9A9A9&width=435&lines=Welcome+To+My+Profile+%3A)" alt="Typing SVG" /></a>
 <div align="center">
   <p float="left">
     <img src="/images/3.png" height="350" align="left">
@@ -11,6 +10,7 @@
       <br>
       <br> discord: <a href="https://discord.com/users/883820228360929320">viciouscal</a>
       <br>
+      <br> support me by leaving a ⭐ on my repositories
     </samp>
   </div>
   </div>
@@ -20,5 +20,5 @@
   <br>
   <br>
   <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=viciouscal&show_icons=true&locale=en&theme=dracula&border_radius=15&hide_border=true&title_color=90acd0" alt="viciouscal" width="340" />
+  <img align="center" src="[https://github-readme-stats.vercel.app/api?username=viciouscal&show_icons=true&locale=en&theme=dracula&border_radius=15&hide_border=true&title_color=90acd0](https://github-readme-stats.vercel.app/api?username=viciouscal&show_icons=true&locale=en&theme=dracula&border_radius=15&hide_border=true&bg_color=000000&icon_color=fbb848&title_color=d9d9d9&ring_color=1d9bef)" alt="viciouscal" width="340" />
 </div>
