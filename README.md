@@ -20,5 +20,5 @@
   <br>
   <br>
   <br>
-  <img align="center" src="[https://github-readme-stats.vercel.app/api?username=viciouscal&show_icons=true&locale=en&theme=dracula&border_radius=15&hide_border=true&title_color=90acd0](https://github-readme-stats.vercel.app/api?username=viciouscal&show_icons=true&locale=en&theme=dracula&border_radius=15&hide_border=true&bg_color=000000&icon_color=fbb848&title_color=d9d9d9&ring_color=1d9bef)" alt="viciouscal" width="340" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=viciouscal&show_icons=true&locale=en&theme=dracula&border_radius=15&hide_border=true&bg_color=000000&icon_color=fbb848&title_color=d9d9d9&text_color=bfbfbf&ring_color=1d9bef" alt="viciouscal" width="340" />
 </div>
