@@ -1,23 +1,25 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A9A9A9&width=435&lines=Welcome+To+My+Profile+%3A)" alt="Typing SVG" /></a><div align="center">
-  <p float="left">
-    <img src="/images/2.png" height="350" align="left">
-    <img src="/images/1.png" height="350" align="right">
-  </p>
-  <div align="center">
-  <div align="center">
-    <samp>
-      <br> languages: <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">javascript</a>, <a href="https://www.typescriptlang.org/">typescript</a>
-      <br>
-      <br> discord: <a href="https://discord.com/users/883820228360929320">viciouscal</a>
-      <br>
-    </samp>
-  </div>
-  </div>
-  <br>
-  <br>
-  <img width="100px" src="https://komarev.com/ghpvc/?username=viciouscal&style=flat-square&color=90acd0" />
-  <br>
-  <br>
-  <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=viciouscal&show_icons=true&locale=en&theme=dracula&border_radius=15&hide_border=true&title_color=90acd0" alt="viciouscal" width="340" />
+<div align="center">
+
+<h2>viciouscal</h2>
+
+<i>“Identity is irrelevant.”</i><br>
+<i>“Only the work speaks.”</i>
+
+---
+
+<img src="https://github-readme-stats.vercel.app/api?username=viciouscal&show_icons=false&hide_title=true&theme=dark&text_color=7f7f7f&bg_color=00000000" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=viciouscal&theme=dark&background=000000&stroke=444&ring=555&fire=555&currStreakLabel=fff&sideNums=bbb&sideLabels=777" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viciouscal&layout=compact&theme=dark&title_color=fff&text_color=888&bg_color=00000000" />
+
+---
+
+### <i>Contact is optional. Observation is constant.</i>
+
+<b>Discord:</b> <a href="https://discord.com/users/883820228360929320"><b>viciouscal</b></a>
+
+<br>
+<i>“If you know, you know.”</i>
+
 </div>
