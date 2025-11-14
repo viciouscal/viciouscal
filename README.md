@@ -1,8 +1,3 @@
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A9A9A9&width=435&lines=Welcome+To+My+Profile+%3A)" alt="Typing SVG" />
-</a>
-
-<br><br>
 
 <div align="center">
 
