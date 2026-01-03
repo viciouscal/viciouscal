@@ -15,6 +15,6 @@
   <img 
     align="center" 
     width="340"
-    src="https://github-readme-stats.vercel.app/api?username=viciouscal&show_icons=true&locale=en&theme=dracula&border_radius=15&hide_border=true&bg_color=000000&icon_color=fbb848&title_color=d9d9d9&text_color=bfbfbf&ring_color=1d9bef"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=viciouscal&show_icons=true&theme=dracula&border_radius=15&hide_border=true&bg_color=000000&icon_color=fbb848&title_color=d9d9d9&text_color=bfbfbf&ring_color=1d9bef"
   />
 </div>
