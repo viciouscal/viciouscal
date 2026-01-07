@@ -38,15 +38,15 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viciouscal&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=9d4edd&icon_color=c77dff&text_color=e0aaff&ring_color=9d4edd"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viciouscal&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=9d4edd&text_color=e0aaff"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=viciouscal&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=9d4edd&icon_color=c77dff&text_color=e0aaff&ring_color=9d4edd"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=viciouscal&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=9d4edd&text_color=e0aaff"/>
 </div>
 
 ---
 
 <div align="center">
   
-###  Support Me..
+###  Support Me
   
 **If you like my projects, don't forget to leave a** ⭐ **on my repositories!**
 
