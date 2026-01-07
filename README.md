@@ -38,8 +38,7 @@
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=viciouscal&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=9d4edd&icon_color=c77dff&text_color=e0aaff&ring_color=9d4edd"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=viciouscal&theme=radical&hide_border=true&background=0D1117&stroke=9D4EDD&ring=9D4EDD&fire=C77DFF&currStreakNum=E0AAFF&sideNums=E0AAFF&currStreakLabel=E0AAFF&sideLabels=E0AAFF&dates=E0AAFF"/>
+  <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=viciouscal&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=9d4edd&icon_color=c77dff&text_color=e0aaff&ring_color=9d4edd"/>
 </div>
 
 ---
