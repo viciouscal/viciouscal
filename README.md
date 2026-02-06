@@ -22,9 +22,10 @@
 
   <p align="center">
     <a href="https://discord.com/users/viciouscal">
-      <img src="https://img.shields.io/badge/Discord-viciouscal-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+      <img src="https://img.shields.io/badge/DISCORD-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+      <img src="https://img.shields.io/badge/viciouscal-808080.svg?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=viciouscal&style=for-the-badge&color=blueviolet"/>
+    <img src="https://komarev.com/ghpvc/?username=viciouscal&style=for-the-badge&color=111111&label=Profile%20Views"/>
   </p>
 
 </div>
@@ -32,11 +33,7 @@
 ---
 
 <div align="center">
-  
   ### Support Me
-
   **If you like my projects, don't forget to leave a** ⭐ **on my repositories!**
-
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
-
 </div>
