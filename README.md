@@ -20,25 +20,27 @@
     <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   </p>
 
-<p align="center">
-  <a href="https://discord.com/users/viciouscal">
-    <img src="https://img.shields.io/badge/DISCORD-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="https://discord.com/users/viciouscal">
-    <img src="https://img.shields.io/badge/viciouscal-FFFFFF.svg?style=for-the-badge"/>
-  </a>
-</p>
-
-
+  <p align="center">
+    <a href="https://discord.com/users/viciouscal">
+      <img src="https://img.shields.io/badge/DISCORD-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+    </a>
+    <a href="https://discord.com/users/viciouscal">
+      <img src="https://img.shields.io/badge/viciouscal-FFFFFF.svg?style=for-the-badge"/>
+    </a>
+  </p>
 
   <p align="center">
-        <img src="https://komarev.com/ghpvc/?username=viciouscal&style=for-the-badge&color=111111&label=Profile%20Views"/>
+    <img src="https://komarev.com/ghpvc/?username=viciouscal&style=for-the-badge&color=111111&label=Profile%20Views"/>
+  </p>
+
 </div>
 
 ---
 
+### Support Me
+
+**If you like my projects, don't forget to leave a** ⭐ **on my repositories!**
+
 <div align="center">
-  ### Support Me
-  **If you like my projects, don't forget to leave a** ⭐ **on my repositories!**
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
 </div>
