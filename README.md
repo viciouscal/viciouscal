@@ -37,9 +37,10 @@
 
 ---
 
-### Support Me
-
-**If you like my projects, don't forget to leave a** ⭐ **on my repositories!**
+<p align="center">
+  <strong>Support Me</strong><br>
+  If you like my projects, don't forget to leave a ⭐ on my repositories!
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
