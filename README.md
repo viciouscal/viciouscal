@@ -25,7 +25,7 @@
       <img src="https://img.shields.io/badge/DISCORD-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
       <img src="https://img.shields.io/badge/viciouscal-808080.svg?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=viciouscal&style=for-the-badge&color=111111&label=Profile%20Views"/>
+    <img src="https://img.shields.io/badge/Profile_Views-3,322-111111.svg?style=for-the-badge"/>
   </p>
 
 </div>
