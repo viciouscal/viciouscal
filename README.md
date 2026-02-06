@@ -19,14 +19,13 @@
     <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   </p>
+
 <p align="center">
   <a href="https://discord.com/users/viciouscal" style="text-decoration: none;" onfocus="this.blur();">
     <img src="https://img.shields.io/badge/DISCORD-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" style="border: 0; outline: none;"/>
     <img src="https://img.shields.io/badge/viciouscal-FFFFFF.svg?style=for-the-badge" style="border: 0; outline: none;"/>
   </a>
 </p>
-
-
 
 
   <p align="center">
