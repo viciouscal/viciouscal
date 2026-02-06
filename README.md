@@ -33,6 +33,6 @@
 
 **If you like my projects, don't forget to leave a** ⭐ **on my repositories!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:240046,50:10002b,100:3c096c&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
 
 </div>
