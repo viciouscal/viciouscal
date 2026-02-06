@@ -20,14 +20,6 @@
     <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   </p>
 
-  <p align="center">
-    <a href="https://discord.com/users/viciouscal">
-      <img src="https://img.shields.io/badge/DISCORD-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
-      <img src="https://img.shields.io/badge/viciouscal-808080.svg?style=for-the-badge&logo=discord&logoColor=white"/>
-    </a>
-    <img src="https://img.shields.io/badge/Profile_Views-3,322-111111.svg?style=for-the-badge"/>
-  </p>
-
 </div>
 
 ---
