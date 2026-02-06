@@ -21,11 +21,14 @@
   </p>
 
 <p align="center">
-  <a href="https://discord.com/users/viciouscal" style="text-decoration: none;" onfocus="this.blur();">
-    <img src="https://img.shields.io/badge/DISCORD-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" style="border: 0; outline: none;"/>
-    <img src="https://img.shields.io/badge/viciouscal-FFFFFF.svg?style=for-the-badge" style="border: 0; outline: none;"/>
+  <a href="https://discord.com/users/viciouscal">
+    <img src="https://img.shields.io/badge/DISCORD-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/users/viciouscal">
+    <img src="https://img.shields.io/badge/viciouscal-FFFFFF.svg?style=for-the-badge"/>
   </a>
 </p>
+
 
 
   <p align="center">
