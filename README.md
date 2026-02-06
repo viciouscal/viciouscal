@@ -19,11 +19,13 @@
     <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   </p>
-   <p align="center">
-     <a href="https://discord.com/users/viciouscal">
-  <img src="https://img.shields.io/badge/DISCORD-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
-  <img src="https://img.shields.io/badge/viciouscal-FFFFFF.svg?style=for-the-badge"/>
-</a>
+<p align="center">
+  <a href="https://discord.com/users/viciouscal" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/DISCORD-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" style="border: none;"/>
+    <img src="https://img.shields.io/badge/viciouscal-FFFFFF.svg?style=for-the-badge" style="border: none;"/>
+  </a>
+</p>
+
 
   <p align="center">
         <img src="https://komarev.com/ghpvc/?username=viciouscal&style=for-the-badge&color=111111&label=Profile%20Views"/>
