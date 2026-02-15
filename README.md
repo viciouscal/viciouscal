@@ -35,7 +35,7 @@
 
 </div>
 
----
+
 
 <p align="center">
   <strong>Support Me</strong><br>
@@ -45,8 +45,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer&background=000000"/>
 </div>
-
-
-
-
-
