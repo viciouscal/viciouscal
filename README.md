@@ -36,8 +36,6 @@
 
 </div>
 
----
-
 <p align="center">
   <strong>Support Me</strong><br>
   If you like my projects, don't forget to leave a ⭐ on my repositories!
