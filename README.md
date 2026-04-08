@@ -1,8 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
 </div>
-12312313131313- fhlajksdfhkashdf
-13131313212313 -  - hsdjkfhasdjklflaksjdfgljk g
+
 <div align="center">
 
   <p align="center">
