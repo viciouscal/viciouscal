@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
 </div>
-x344xx--.6626
+x344xx--.
 <div align="center">
 
   <p align="center">
